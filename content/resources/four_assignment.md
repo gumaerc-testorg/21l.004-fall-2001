@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource provides information on the topics for the final assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-004-major-poets-fall-2001/aaedbc499370d9b292fc109ad793cfe2_four_assignment.pdf
+file: /media/courses/21l-004-major-poets-fall-2001/aaedbc499370d9b292fc109ad793cfe2_four_assignment.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: four_assignment.pdf
 uid: aaedbc49-9370-d9b2-92fc-109ad793cfe2
