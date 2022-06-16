@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and format.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +15,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Course Description
 ------------------
 
-This subject follows a course of readings in lyric poetry in the English language, tracing the main lines of descent through literary periods from the Renaissance to the modern period and concentrating mostly on English rather than American examples. The subject starts with Shakespeare's sonnets, discussing such things as the constraints of stanza-form, the use of figurative language (metaphor and metonymy), and the controlled effects of ambiguity, showing how recessive meanings unite disparate parts of a poem and contribute to its overall unity. Attention will also be paid to constraints of meter, accent and duration, and a number of critical terms will be introduced - apostrophe, assonance, enjambment, chiasmus, hyperbole, litotes, and the like - which constitute the standard repertoire of rhetorical analysis since the eighteenth century. The subject will move from Shakespeare to Donne and the so-called "metaphysical" poets, through Milton, Pope, and others of the classical period, to Wordsworth and Keats by way of considering the nature of the romantic period, and concluding with some modern poets, such as Yeats, Eliot and Philip Larkin. The [calendar]({{< baseurl >}}/pages/calendar) section provides more specific information.
+This subject follows a course of readings in lyric poetry in the English language, tracing the main lines of descent through literary periods from the Renaissance to the modern period and concentrating mostly on English rather than American examples. The subject starts with Shakespeare's sonnets, discussing such things as the constraints of stanza-form, the use of figurative language (metaphor and metonymy), and the controlled effects of ambiguity, showing how recessive meanings unite disparate parts of a poem and contribute to its overall unity. Attention will also be paid to constraints of meter, accent and duration, and a number of critical terms will be introduced - apostrophe, assonance, enjambment, chiasmus, hyperbole, litotes, and the like - which constitute the standard repertoire of rhetorical analysis since the eighteenth century. The subject will move from Shakespeare to Donne and the so-called "metaphysical" poets, through Milton, Pope, and others of the classical period, to Wordsworth and Keats by way of considering the nature of the romantic period, and concluding with some modern poets, such as Yeats, Eliot and Philip Larkin. The {{% resource_link 091622ad-41c0-d6ba-5886-73c6143c1a38 "calendar" %}} section provides more specific information.
 
 Course Format
 -------------
