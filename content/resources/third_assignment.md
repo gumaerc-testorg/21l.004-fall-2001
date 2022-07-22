@@ -6,6 +6,7 @@ file: /courses/21l-004-major-poets-fall-2001/61bd27b60ac79b5be9acab27d6cd2f75_th
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: third_assignment.pdf
 uid: 61bd27b6-0ac7-9b5b-e9ac-ab27d6cd2f75
 ---
 This resource provides information on writing a reading on one of the two options for the third assignment, Marvell and Jonson.
-

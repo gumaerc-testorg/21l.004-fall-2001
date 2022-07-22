@@ -5,6 +5,7 @@ description: This resource provides information on the second topic for discussi
 file: /courses/21l-004-major-poets-fall-2001/d8469bc72c7ad60c24e1fd4a9fead0ae_topic2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: topic2.pdf
 uid: d8469bc7-2c7a-d60c-24e1-fd4a9fead0ae
 ---
 This resource provides information on the second topic for discussion for this course.
-

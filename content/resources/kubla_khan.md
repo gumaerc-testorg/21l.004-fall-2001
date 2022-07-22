@@ -5,6 +5,7 @@ file: /courses/21l-004-major-poets-fall-2001/98ef27e962a343799b0443504b99ca88_ku
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kubla_khan.pdf
 uid: 98ef27e9-62a3-4379-9b04-43504b99ca88
 ---
 This resource includes a version of the poem is provided by Kubla Khan.
-
