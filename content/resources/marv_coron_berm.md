@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes a version of the poem is provided by Andrew Marvell.
 file: /courses/21l-004-major-poets-fall-2001/af61863072368d0743198ed21e389373_marv_coron_berm.pdf
+file_size: 20642
 file_type: application/pdf
 learning_resource_types:
 - Readings

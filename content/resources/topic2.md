@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on the second topic for discussion
   for this course.
 file: /courses/21l-004-major-poets-fall-2001/d8469bc72c7ad60c24e1fd4a9fead0ae_topic2.pdf
+file_size: 65830
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

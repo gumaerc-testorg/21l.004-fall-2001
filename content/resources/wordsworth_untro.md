@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes a version of the poem is provided by William Wordsworth.
 file: /courses/21l-004-major-poets-fall-2001/883000ed372912e278ae789f55f7abdc_wordsworth_untro.pdf
+file_size: 47367
 file_type: application/pdf
 learning_resource_types:
 - Readings
