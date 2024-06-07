@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes a version of the poem is provided by John Milton.
 file: /courses/21l-004-major-poets-fall-2001/e48b110ae9358e57d29d5df50a41d7b2_john_milton.pdf
+file_size: 51402
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on the fifth topic for discussion
   for the course.
 file: /courses/21l-004-major-poets-fall-2001/fabf373787d211d02be0350b2c869666_topic5.pdf
+file_size: 72164
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

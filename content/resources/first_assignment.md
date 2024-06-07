@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information and assignments for the poem, titled
   Metaphors.
 file: /courses/21l-004-major-poets-fall-2001/6414443791e6439b4fe3b66656bb22e4_first_assignment.pdf
+file_size: 41017
 file_type: application/pdf
 learning_resource_types:
 - Assignments

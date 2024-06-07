@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes a version of the poem is provided by Andrew Marvell.
 file: /courses/21l-004-major-poets-fall-2001/fd4b42779bdf7efe04ddcb8feaaeccee_marcoy_thegarden.pdf
+file_size: 31857
 file_type: application/pdf
 learning_resource_types:
 - Readings
