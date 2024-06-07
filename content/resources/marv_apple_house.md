@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes a version of the poem is provided by Andrew Marvell.
 file: /courses/21l-004-major-poets-fall-2001/e773e3ff6ac07031d895ce3a63cf5392_marv_apple_house.pdf
+file_size: 115715
 file_type: application/pdf
 learning_resource_types:
 - Readings
