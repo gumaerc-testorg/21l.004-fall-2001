@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the first topic of discussion for
   the course.
-file: /courses/21l-004-major-poets-fall-2001/fe21b4320353d0bf2a193bbec919349a_topic1.pdf
+file: /ol-ocw-studio-app/courses/21l-004-major-poets-fall-2001/fe21b4320353d0bf2a193bbec919349a_topic1.pdf
 file_size: 42970
 file_type: application/pdf
 learning_resource_types: []
