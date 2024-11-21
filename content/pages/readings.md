@@ -240,7 +240,7 @@ Eliot, T. S. [*The Love Song of J. Alfred Prufrock*](https://www.poetryfoundatio
 {{< tdclose >}}{{< tdopen >}}
 Discussion of: Auden, W. H. *As I Walked Out One Evening, Funeral Blues, Lullaby, Musée des Beaux Arts, In Memory of W. B. Yeats.*
 {{< tdclose >}}{{< tdopen >}}
-Auden, W. H. [*As I Walked Out One Evening*](https://poets.org/poem/i-walked-out-one-evening)*,* [*Funeral Blues*](https://medium.com/poem-of-the-day/w-h-auden-funeral-blues-8771e2868595)*,* [*Lullaby*](https://poets.org/poem/lullaby-0)*,* [*Musée des Beaux Arts*](http://english.emory.edu/classes/paintings&poems/auden.html)*,* [*In Memory of W. B. Yeats*](https://poets.org/poem/memory-w-b-yeats)*.*
+Auden, W. H. [*As I Walked Out One Evening*](https://poets.org/poem/i-walked-out-one-evening)*,* *Funeral Blues,* [*Lullaby*](https://poets.org/poem/lullaby-0)*,* [*Musée des Beaux Arts*](http://english.emory.edu/classes/paintings&poems/auden.html)*,* [*In Memory of W. B. Yeats*](https://poets.org/poem/memory-w-b-yeats)*.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
