@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information on the topics for the final assignment.
-file: /ol-ocw-studio-app/courses/21l-004-major-poets-fall-2001/aaedbc499370d9b292fc109ad793cfe2_four_assignment.pdf
+file: /courses/21l-004-major-poets-fall-2001/aaedbc499370d9b292fc109ad793cfe2_four_assignment.pdf
 file_size: 108943
 file_type: application/pdf
 learning_resource_types:
