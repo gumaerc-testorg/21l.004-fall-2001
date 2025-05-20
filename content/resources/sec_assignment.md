@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on providing a reading on one of the
   multiple options for second assignment, Donne and Shakespeare.
-file: /ol-ocw-studio-app/courses/21l-004-major-poets-fall-2001/404c345f5fc3b80cea45c2a33457e858_sec_assignment.pdf
+file: /courses/21l-004-major-poets-fall-2001/404c345f5fc3b80cea45c2a33457e858_sec_assignment.pdf
 file_size: 55535
 file_type: application/pdf
 learning_resource_types:

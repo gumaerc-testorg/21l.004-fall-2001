@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a version of the poem is provided by Shakespeare.
-file: /ol-ocw-studio-app/courses/21l-004-major-poets-fall-2001/ce774d4f995a54f1f6aa4095f45924aa_shakespeare_sonn.pdf
+file: /courses/21l-004-major-poets-fall-2001/ce774d4f995a54f1f6aa4095f45924aa_shakespeare_sonn.pdf
 file_size: 45893
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a version of the poem is provided by Thomas Campion.
-file: /ol-ocw-studio-app/courses/21l-004-major-poets-fall-2001/bd43ec07559c637fbd55bc329730023e_camp_herr_wall.pdf
+file: /courses/21l-004-major-poets-fall-2001/bd43ec07559c637fbd55bc329730023e_camp_herr_wall.pdf
 file_size: 59616
 file_type: application/pdf
 learning_resource_types:
