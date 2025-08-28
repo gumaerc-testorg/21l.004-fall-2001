@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the seventh topic for discussion
   for the course.
-file: /courses/21l-004-major-poets-fall-2001/07c964850e41b7b0f5baaf4dd676acf2_topic7.pdf
+file: /ol-ocw-studio-app/courses/21l-004-major-poets-fall-2001/07c964850e41b7b0f5baaf4dd676acf2_topic7.pdf
 file_size: 68455
 file_type: application/pdf
 learning_resource_types: []

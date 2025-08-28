@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a version of the poem is provided by John Donne.
-file: /courses/21l-004-major-poets-fall-2001/257ad421a232d36e1e1c53010333cce0_poetry_johndonne.pdf
+file: /ol-ocw-studio-app/courses/21l-004-major-poets-fall-2001/257ad421a232d36e1e1c53010333cce0_poetry_johndonne.pdf
 file_size: 111819
 file_type: application/pdf
 learning_resource_types:
